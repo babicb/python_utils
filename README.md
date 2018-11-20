@@ -1,2 +1,2 @@
 # python_utils
-JB python utilities 
+python utilities 
